@@ -1,0 +1,41 @@
+[
+  {
+    "id": "1",
+    "tipoCliente": "Cliente",
+    "idCapoGruppod": "CG001",
+    "idCliente": "CL001",
+    "codeSapCapogruppo": "SAPCG001",
+    "codeSapCliente": "SAPCL001",
+    "societa": "Alfa S.p.A.",
+    "nome": "Mario",
+    "cognome": "Rossi",
+    "codiceFiscale": "RSSMRA80A01H501U",
+    "piva": "01234567890"
+  },
+  {
+    "id": "2",
+    "tipoCliente": "Capogruppo",
+    "idCapoGruppod": "CG002",
+    "idCliente": "CL002",
+    "codeSapCapogruppo": "SAPCG002",
+    "codeSapCliente": "SAPCL002",
+    "societa": "Beta S.r.l.",
+    "nome": "Luisa",
+    "cognome": "Bianchi",
+    "codiceFiscale": "BNCLSU85B41F205Z",
+    "piva": "09876543210"
+  },
+  {
+    "id": "3",
+    "tipoCliente": "Cliente",
+    "idCapoGruppod": "CG002",
+    "idCliente": "CL003",
+    "codeSapCapogruppo": "SAPCG002",
+    "codeSapCliente": "SAPCL003",
+    "societa": "Gamma S.p.A.",
+    "nome": "Giovanni",
+    "cognome": "Verdi",
+    "codiceFiscale": "VRDGNN70C12D612K",
+    "piva": "11223344556"
+  }
+]
