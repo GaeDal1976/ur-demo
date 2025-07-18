@@ -1,0 +1,1 @@
+import{O as o,m as r}from"./chunk-QIVHEG4A.js";var i=(()=>{class t{constructor(){}getCliente(e){return r()}autoComplete(e){return r([])}static \u0275fac=function(n){return new(n||t)};static \u0275prov=o({token:t,factory:t.\u0275fac,providedIn:"root"})}return t})();export{i as a};
