@@ -124,5 +124,33 @@
     "classeVeicolo": "S",
     "alimentazione": "benzina senza piombo",
     "veicoloOrdinabile": true
+  },
+  {
+    "id": "10",
+    "marca": "Fiat",
+    "modello": "500e",
+    "codiceProduttore": "8WCAZG",
+    "allestimento": "A4 40 TFSI S tronic",
+    "carrozzeria": "berlina 3 volumi",
+    "codiceInfocar": "GI20",
+    "annoInfocar": "2020",
+    "meseInfocar": "7",
+    "classeVeicolo": "S",
+    "alimentazione": "benzina senza piombo",
+    "veicoloOrdinabile": true
+  },
+  {
+    "id": "10",
+    "marca": "Fiat",
+    "modello": "Punto",
+    "codiceProduttore": "8WCAZGWK4",
+    "allestimento": "A4 40 TFSI S tronic",
+    "carrozzeria": "berlina 3 volumi",
+    "codiceInfocar": "GI20",
+    "annoInfocar": "2020",
+    "meseInfocar": "7",
+    "classeVeicolo": "S",
+    "alimentazione": "benzina senza piombo",
+    "veicoloOrdinabile": true
   }
 ]
