@@ -1,0 +1,1 @@
+import{O as c,j as r,w as o}from"./chunk-P6AE7GFT.js";var n=(()=>{class t{constructor(){}_subject=new r(null);message$=this._subject.asObservable().pipe(o(e=>!!e));show(e){this._subject.next(e)}static \u0275fac=function(s){return new(s||t)};static \u0275prov=c({token:t,factory:t.\u0275fac,providedIn:"root"})}return t})();export{n as a};
